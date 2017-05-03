@@ -1,0 +1,104 @@
+
+
+*** MODULES
+
+0001 CecilTest.Program
+
+
+
+*** PUBLICS
+
+PublicSymbol: [00000000][0000:06000001] COM+_Entry_Point(COM+_Entry_Point)
+
+
+
+*** SYMBOLS
+
+
+
+** Module: CecilTest.Program
+
+
+Function       : In MetaData, [00000000][0001:00000000], len = 00000024, Main
+                 Function attribute:
+                 Function info:
+FuncDebugStart :   
+FuncDebugEnd   :   
+
+
+
+*** GLOBALS
+
+Function: [00000000][0001:00000000] Main
+
+
+
+*** TYPES
+
+
+** User Defined Types
+
+
+
+
+** ENUMS
+
+
+
+
+** TYPEDEFS
+
+
+
+
+*** FILES
+
+
+Compiland = CecilTest.Program
+
+	C:\Work\Spikes\CecilTest\CecilTest\Program.cs
+
+
+
+*** LINES
+
+
+** Main
+
+	line 12 at [00000000][0001:00000000], len = 0x1	C:\Work\Spikes\CecilTest\CecilTest\Program.cs
+	line 13 at [00000001][0001:00000001], len = 0x6
+	line 14 at [00000007][0001:00000007], len = 0x1B
+	line 15 at [00000022][0001:00000022], len = 0xB
+
+
+
+*** SECTION CONTRIBUTION
+
+    RVA        Address       Size    Module
+  00000000  0001:00000000  00000024  CecilTest.Program
+
+
+
+*** DEBUG STREAMS
+
+Stream: SECTIONHEADERS(1)
+00 00 00 00 00 00 00 00 - 24 00 00 00 00 00 00 00 - 24 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00 | ........$.......$.......................
+Summary :
+	No of Elems = 1
+	Sizeof(Elem) = 40
+
+
+
+
+*** INJECTED SOURCES TABLE
+
+
+
+*** FPO
+
+
+
+
+*** OEM Specific types
+
+

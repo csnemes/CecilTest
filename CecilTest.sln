@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CecilRewriter", "CecilRewriter\CecilRewriter.csproj", "{80FA646D-6FBF-4CCC-8D8A-4AE084756BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CecilTest", "CecilTest\CecilTest.csproj", "{B007A247-79EA-46C1-95C1-F5BE66A9517E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80FA646D-6FBF-4CCC-8D8A-4AE084756BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FA646D-6FBF-4CCC-8D8A-4AE084756BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FA646D-6FBF-4CCC-8D8A-4AE084756BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FA646D-6FBF-4CCC-8D8A-4AE084756BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B007A247-79EA-46C1-95C1-F5BE66A9517E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B007A247-79EA-46C1-95C1-F5BE66A9517E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B007A247-79EA-46C1-95C1-F5BE66A9517E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B007A247-79EA-46C1-95C1-F5BE66A9517E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
